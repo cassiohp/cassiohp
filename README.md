@@ -1,3 +1,4 @@
+___
 ### Olá! eu sou Cássio Henrique. 🖐️
 
 Sou um programador iniciante apaixonado por tecnologia e com uma vontade insaciável de aprender novas coisas.
@@ -20,8 +21,10 @@ O que estou aprendendo no momento. 👇🏽<br>
 
 
 <div>
-<br>
+
+______
 
 ##### Entre em contato. 👇🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiohp/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cassio375@gmail.com)
+___
