@@ -1,7 +1,6 @@
-___
 ## Olá! eu sou Cássio Henrique. 🖐️
 
-Sou um programador iniciante apaixonado por tecnologia e com uma vontade insaciável de aprender novas coisas.
+Sou um programador apaixonado por tecnologia e com uma vontade insaciável de aprender novas coisas.
 ___
 #### Informações Adicionais
 
