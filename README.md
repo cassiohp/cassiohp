@@ -6,10 +6,6 @@ Sou um programador apaixonado por tecnologia e com uma vontade insaciável de ap
 
 [![cassiohp GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiohp)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Linguagens  que mais utilizo para desenvolvimento. 💻
-
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiohp&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 #### O que estou utilizando no momento. 👇🏽
 <div style="display: inline_block">
