@@ -4,7 +4,7 @@ Sou um programador apaixonado por tecnologia e com uma vontade insaciável de ap
 
 #### Informações Adicionais
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiohp&theme=onedark)
+[![cassiohp GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiohp)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Linguagens  que mais utilizo para desenvolvimento. 💻
 
