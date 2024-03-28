@@ -1,6 +1,6 @@
 ## Olá! eu sou Cássio Henrique. 🖐️
 
-Sou um programador apaixonado por tecnologia e com uma vontade insaciável de aprender novas coisas e compartilhar conhecimento.
+Desenvolvedor full stack com experiência em Java e AngularJS. Experiência sólida em Spring Boot, JavaScript, API REST, Arquitetura de Microsserviços e MVC. Proficiente em Banco de Dados Oracle e Desenvolvimento Ágil com Scrum. Atualmente, contribuindo ativamente para projetos de desenvolvimento web e integração contínua utilizando Jenkins.
 
 
 #### O que estou utilizando no momento. 👇🏽
